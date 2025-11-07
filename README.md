@@ -39,7 +39,7 @@ This app helps users **practice speaking for IELTS** by:
 
 ## 🖥️ Local Setup (Recommended for Full Functionality)
 
-> 💡 Because this app uses a **microphone**, it must run locally — Streamlit Cloud does not support `sounddevice`.
+> 💡 Because this app uses a **microphone**, it must run locally. Streamlit Cloud does not support `sounddevice`.
 
 ### 1️⃣ Clone the repository
 ```bash
